@@ -1,0 +1,5 @@
+{
+  "name": "siteease.ca",
+  "description": "A WCAG 2.2 AA compliant landing page for SiteEase.ca, a Website as a Service (WaaS) provider for SMBs featuring hosting, domain management, backups, and monthly updates.",
+  "requestFramePermissions": []
+}
